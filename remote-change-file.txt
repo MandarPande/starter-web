@@ -1,0 +1,1 @@
+This file contains the remote changes made by other users which are collaorating on the project. These are the changes that need sto be pulled by the local repository before pushing it.
