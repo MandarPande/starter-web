@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mandar Pande mandarpande29@gmail.com MandarPande
 
 # THANKS
 
