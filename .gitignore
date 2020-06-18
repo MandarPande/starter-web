@@ -1,4 +1,4 @@
 stuff-to-be-ignored.txt
 *.log
 log/
-*.org
+*.orig
